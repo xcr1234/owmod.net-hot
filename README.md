@@ -2,6 +2,9 @@
 
 python script for <https://owmod.net> to increase your hot values
 
+author: [misaka#51577](https://www.owmod.net/user/9)
+
+![result](result.png)
 
 ## requirements
 
@@ -26,3 +29,4 @@ run
 ```
 python owmod.net-hot.py
 ```
+
